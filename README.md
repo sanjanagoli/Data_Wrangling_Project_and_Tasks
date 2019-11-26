@@ -1,5 +1,5 @@
 # Data_Wrangling_Project_and_Tasks
-QBS181 Projects: I have been given permission to make my work public.
+This repository contains all my QBS181 Projects (Project 1, Project 2, Midterm, Final). I have been given permission to make my work public.
 
 ## Project 1
 Project 1 contains the code for homework 1 to calculate days until complete from email sent date, create enrollment statuses, creates a 'sex' column, create age groups. 
